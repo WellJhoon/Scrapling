@@ -110,3 +110,5 @@ output/*/index.html
 docs/_build
 public/
 web/
+*.db
+__pycache__/
